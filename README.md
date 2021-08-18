@@ -1,16 +1,14 @@
 # glowing-giggle
 
-Machine Learning Assignments
+Machine Learning Assignments <br/>
 
-0 - Introduction
-1 - Classification
-2 - Bayes Reasoning
-3 - Linear Regression
-4 - Logistic Regression
-5 - Decision Trees
-6 - Support Vector Machines
-7 - Bagging and Boosting
-8 - Neural Networks - 1
-9 - Neural Networks - 2
-10 - Clustering 1
-11 - Clustering 2
+0 - Introduction <br/>
+1 - Classification <br/>
+2 - Bayes Reasoning <br/>
+3 - Linear Regression <br/>
+4 - Logistic Regression <br/>
+5 - Decision Trees <br/>
+6 - Support Vector Machines <br/>
+7 - Bagging and Boosting <br/>
+8 & 9 - Neural Networks <br/>
+10 & 11 - Clustering <br/>
